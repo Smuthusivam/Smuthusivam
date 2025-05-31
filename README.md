@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Sri Muthusivam
 
-<!--
-**Smuthusivam/Smuthusivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 3rd-year Informatics Student | Full Stack Developer  
+🛠️ Technologies: C#, Python, Node.js, PostgreSQL, Docker, Azure  
+🏆 Dual Award Winner @ Technorama 2024 (Reiz Tech & Accenture Baltics)
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Real Estate Listing Platform
+- Hospital Management System
+- E-Learning System
+- AI VS Code Extension
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- Email: srimuthusivam01@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sri-muthusivam
