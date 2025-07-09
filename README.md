@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sri Muthusivam
 
-👨‍💻 3rd-year Informatics Student | Full Stack Developer  
+👨‍💻 4th-year Informatics Student | Full Stack Developer  
 🛠️ Technologies: C#, Python, Node.js, PostgreSQL, Docker, Azure  
 🏆 Dual Award Winner @ Technorama 2024 (Reiz Tech & Accenture Baltics)
 
