@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sri+Muthusivam+%F0%9F%91%8B;Full+Stack+Developer;Data+Science+Enthusiast;Award-Winning+Builder" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Sri%20Muthusivam&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Informatics%20Student&descAlignY=58&descColor=c7d2fe" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+Enthusiast;Award-Winning+Builder+%F0%9F%8F%86;Open+to+Opportunities" alt="Typing SVG" />
 
 <br/>
 
@@ -45,7 +47,6 @@ I'm a **4th-year Informatics student** and passionate **Full Stack Developer** w
 
 **Frontend & Backend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -69,50 +70,42 @@ I'm a **4th-year Informatics student** and passionate **Full Stack Developer** w
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Hospital Management System</h3>
-      <p>Full-stack system for managing patient records, appointments, and staff workflows. React + Vite frontend with a focus on clean UX and reliable data handling.</p>
+      <h3>🔬 Technological Project</h3>
+      <p>A structured Python application built with a clean separation of concerns — dedicated modules for logic and display. Demonstrates solid software design and Python fundamentals.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <a href="https://github.com/Smuthusivam/hospitalManagementFrontEnd">View Repo →</a>
+      <a href="https://github.com/Smuthusivam/Technological-Project">View Repo →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI Builder Arena</h3>
-      <p>An interactive front-end platform for AI-related building and comparison tasks. Built with pure HTML/CSS/JS with CI/CD automation via GitHub Actions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Smuthusivam/ai-builder-arena">View Repo →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Data Science Internship</h3>
-      <p>Exploratory data analysis across categorical, numerical, and time-series datasets. Demonstrates hands-on EDA skills covering the full spectrum of structured data types.</p>
+      <h3>📊 LEI Data Analysis</h3>
+      <p>Academic data analysis assignments covering a range of dataset types and analytical techniques. Showcases applied data science skills through structured Jupyter notebooks.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       </p>
-      <a href="https://github.com/Smuthusivam/Data-Science-Internship">View Repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Eneba Web App</h3>
-      <p>A JavaScript web application built with modern tooling, clean project structure and package management — showcasing frontend engineering practices.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Smuthusivam/eneba-WebApp">View Repo →</a>
+      <a href="https://github.com/Smuthusivam/LEI-Assignment-01_Feb">View Repo →</a>
     </td>
   </tr>
 </table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smuthusivam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smuthusivam&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Smuthusivam&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -141,8 +134,4 @@ I'm always open to exciting opportunities, collaborations, or just a good tech c
 
 </div>
 
----
-
-<div align="center">
-  <sub>Built with passion by Sri Muthusivam · Updated 2026</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" />
